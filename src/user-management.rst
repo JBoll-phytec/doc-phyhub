@@ -40,8 +40,8 @@ Admin and has received a registration link from the phyHUB team.
 Step 1: Open the Registration Link and Fill In Your Details
 ...........................................................
 
-Click the registration link you received. You will land on the **Register
-Organization** page.
+Click the registration link https://www.phyhub.phytec.de/auth/register-organization. 
+You will land on the **Register Organization** page.
 
 .. figure:: /images/register-organization.png
 
@@ -215,14 +215,6 @@ Asset Admin          Inventory managers maintaining the asset catalogue
 User Admin           IT administrators who manage users and roles
 ==================== ===========================================================
 
-.. note::
-   For a detailed description of every role's permissions, see the **Role
-   Reference**.
-
-.. note::
-   Every user automatically receives the **Default** role upon account creation.
-   The Default role allows signing in and managing personal settings -- nothing
-   more. All other roles must be assigned explicitly.
 
 Part D: What Your Invited Colleague Will Experience
 ---------------------------------------------------
@@ -338,11 +330,8 @@ A colleague says they can log in but cannot access certain features
 ...................................................................
 
 This is almost always a role issue. Go to the **Members** tab, find the
-colleague, and check which roles are currently assigned to them. Compare against
-the **Role Reference** to ensure the correct roles are set for what they need to
-do.
+colleague, and check which roles are currently assigned to them. 
+Ensure the correct roles are set for what they need to do.
 
-----
 
-For a complete description of every role and its permissions, see the **User
-Management -- Role Reference**.
+

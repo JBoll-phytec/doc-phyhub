@@ -123,8 +123,6 @@ Order      Document                 Purpose
 3          :doc:`/ui`               Devices, software, and assets in the web
 ---------- ------------------------ --------------------------------------------
 4          :doc:`/cli`              The ``m2cp`` command-line client
----------- ------------------------ --------------------------------------------
-Reference  Role Reference           Detailed permissions of every user role
 ========== ======================== ============================================
 
 If you have questions at any point during your evaluation, contact the phyHUB
