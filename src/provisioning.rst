@@ -458,7 +458,7 @@ The board still shows the PHYTEC demo system or does not boot after switching to
    Step 3.
 
 The console says "Device registered" but the device is not in the Devices list
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The console message is the authoritative confirmation that registration
 succeeded. If the device is missing in phyHUB:
