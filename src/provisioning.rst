@@ -154,9 +154,7 @@ Step 1: Download the Image for Your Board
 Open the download link for your board from the table above. In that directory,
 navigate to ``images/ampliphy-vendor-rauc/`` and then into the folder named
 after your board. Download the file ending in ``.partup`` and save it on your
-computer. For the phyBOARD-Pollux, for example:
-
-.. code-block:: none
+computer. For the phyBOARD-Pollux, for example::
 
    images/ampliphy-vendor-rauc/phyboard-pollux-imx8mp-3/phytec-liot-image-phyboard-pollux-imx8mp-3.rootfs.partup
 
