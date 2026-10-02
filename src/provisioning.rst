@@ -187,7 +187,7 @@ Step 2: Boot the Kit from Its SD Card
 The board now runs the PHYTEC demo image from the SD card. You do not need to
 interact with it otherwise; it is only used to write the e.MMC in the next step.
 
-Step 3: Install the phyHUB System on the e.MMC
+Step 3: Installing a phyHUB image on e.MMC
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. In your SSH session, make sure the board is running from the SD card and
